@@ -42,7 +42,6 @@ while 1:
             # And put it in the array
             items.append(item)
         i = i + 15
-        print("Moving on to row %s" % i)
     except urllib2.HTTPError:
         print("The next page could not be retrieved.")
         break

@@ -1,7 +1,14 @@
+
 ### Introduction
 
-This file is mainly here for historical purposes, so I am unsure if it will work anymore. This was my first real attempt at web scraping using the BeautifulSoup library in Python. Usage is simple - just run it!
+As a preteen I used to be heavily into [ROBLOX](https://roblox.com). One part of the game was an online catalog of virtual items such as shirts, hats, gear, etc. This script will obtain information on every item and insert it into a dictionary `items`.
+
+This file is mainly here for historical purposes, so I am unsure if it will work anymore (as of August 20, 2016, it does). This was my first real attempt at web scraping using the BeautifulSoup library in Python.
 
 ### Modification
 
-The only variable you need to modify is `i` on line 8, which is the row with which to start at.
+The variable `i` on line 8 can be modified to set at what point in the item database the script should begin crawling. This can be used to skip over sets of items.
+
+### Last Modified
+
+Oct 20, 2012.
