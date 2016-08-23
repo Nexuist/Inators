@@ -1,7 +1,6 @@
-
 ### Introduction
 
-As a preteen I used to be heavily into [ROBLOX](https://roblox.com). One part of the game was an online catalog of virtual items such as shirts, hats, gear, etc. This script will obtain information on every item and insert it into a dictionary `items`.
+I used to be heavily into [ROBLOX](https://roblox.com). One feature of the game was an online catalog of virtual items such as shirts, hats, gear, etc. This script will obtain information on every item in the catalog and insert it into a dictionary `items`.
 
 This file is mainly here for historical purposes, so I am unsure if it will work anymore (as of August 20, 2016, it does). This was my first real attempt at web scraping using the BeautifulSoup library in Python.
 

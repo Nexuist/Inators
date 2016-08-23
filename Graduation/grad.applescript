@@ -1,5 +1,5 @@
-set students to paragraphs of (read POSIX file "/Users/nexuist/Desktop/index.txt")
-set folderPath to "Machindoge HD:Users:nexuist:Desktop:imgs:"
+set students to paragraphs of (read POSIX file "/index.txt")
+set folderPath to "/images"
 tell application "Keynote"
 	tell front document
 		repeat with entry in students
