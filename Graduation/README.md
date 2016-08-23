@@ -6,10 +6,10 @@ I have a friend, Andrew. Andrew's school wanted to make a small book of all thei
 
 ### Concepts Used
 
-* Learning basic AppleScript - I hadn't developed anything serious with it previously.
-* Using POSIX file/folder paths.
-* Interacting with the Keynote API.
-* String manipulation.
+* Learning basic AppleScript - I hadn't developed anything serious with it previously
+* Using POSIX file/folder paths
+* Interacting with the Keynote API
+* String manipulation
 
 ### Credits
 
