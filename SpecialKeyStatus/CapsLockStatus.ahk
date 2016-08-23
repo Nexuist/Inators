@@ -9,6 +9,7 @@ else {
 }
 
 CapsLock::
+	; This is run whenever CapsLock is pressed
 	if (GetKeyState("CapsLock", "T") = 0) {
 		; On
 		SetCapsLockState, On

@@ -16,3 +16,7 @@ I used [BootCamp](https://www.apple.com/support/bootcamp/) to install Windows 10
 
 * Learning the AutoHotKey API and language
 * Common sense
+
+### Last Modified
+
+Created June 9, 2015, and modified February 4, 2016.
