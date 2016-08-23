@@ -11,7 +11,6 @@ I have a friend, Andrew. Andrew's school wanted to make a small book of all thei
 * Interacting with the Keynote API.
 * String manipulation.
 
-
 ### Credits
 
 * [Andrew Abosh](http://andrew-abosh.com/) for the template and images.
