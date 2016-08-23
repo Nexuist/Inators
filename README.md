@@ -2,6 +2,10 @@
 
 A collection of scripts I have worked on over the years that are too small to deserve their own repositories.
 
+### Naming Scheme
+
+* [♪ Doofenshmirtz Evil Incorporated ♪](https://en.wikipedia.org/wiki/Dr._Heinz_Doofenshmirtz#Running_gags)
+
 ### License
 ```
 Copyright (c) 2016 Andi Andreas
