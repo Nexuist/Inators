@@ -2,7 +2,7 @@
 
 I have a friend, Andrew. Andrew's school wanted to make a small book of all their graduating students that included their name and photo. The problem is that they have hundreds of students, and making a page for each student would be tedious and repetitive. Andrew approached me with this situation and I developed a script to automate the approach using Keynote (Apple's version of PowerPoint) and AppleScript (Apple's scripting language).
 
-* [View Example Results](/Example.pdf)
+* [View Example Results](https://github.com/Nexuist/Inators/blob/master/Graduationator/Example.pdf)
 
 ### Concepts Used
 
