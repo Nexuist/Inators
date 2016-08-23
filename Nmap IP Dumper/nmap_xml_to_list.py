@@ -28,9 +28,5 @@ def main():
         print "Unhandled Exception: %s" % e.__class__.__name__
         print e
 
-
-
-
-
 if __name__ == "__main__":
     main()
