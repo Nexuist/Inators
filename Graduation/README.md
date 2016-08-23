@@ -17,4 +17,4 @@ I have a friend, Andrew. Andrew's school wanted to make a small book of all thei
 
 ### Last Modified
 
-Initially written June 22, 2016 and cleaned up August 23, 2016.
+Created on June 22, 2016 and cleaned up August 23, 2016.

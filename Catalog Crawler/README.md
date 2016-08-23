@@ -15,4 +15,4 @@ The variable `i` on line 8 can be modified to set at what point in the item data
 
 ### Last Modified
 
-Oct 20, 2012.
+Created on Oct 20, 2012.
