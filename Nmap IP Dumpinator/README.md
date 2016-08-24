@@ -16,6 +16,14 @@ Etcetera...
 * Understanding the XML library in Python (I had never used it before)
 * Basic knowledge of the nmap tool and its features
 
+### Better Solution
+
+A StackOverflow user posted a simple command line solution [here](http://unix.stackexchange.com/a/181723):
+
+```
+nmap -n -sn 192.0.2.0/24 -oG - | awk '/Up$/{print $2}'
+```
+
 ### Last Modified
 
 Created December 3, 2015.
