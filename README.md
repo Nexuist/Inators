@@ -6,6 +6,16 @@ A collection of scripts I have worked on over the years that are too small to de
 
 * [♪ Doofenshmirtz Evil Incorporated ♪](https://en.wikipedia.org/wiki/Dr._Heinz_Doofenshmirtz#Running_gags)
 
+### Inators
+
+* Capslockinator - Shows a notification whenever the capslock button is pressed on Windows. Useful for machines that don't have a capslock LED.
+* CatalogCrawlinator - Obtains information on items in the ROBLOX catalog.
+* Graduationator - Automated slideshow generator for graduating students.
+* MJPEG Proxyinator - Proxies MJPEG streams, useful if you don't want to expose (probably insecure) IP cameras to the Internet.
+* Nmap IP Dumpinator - Generates a text file with an IP address per line using nmap XML output.
+* OS X Spoofinator - Brings OS X style scrolling to Windows.
+* iMessage Spaminator - Makes your friends hate you.
+
 ### License
 
 ```
