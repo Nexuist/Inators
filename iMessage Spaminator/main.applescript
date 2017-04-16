@@ -1,4 +1,4 @@
-set phoneNumber to "8604614162"
+set phoneNumber to "<number here>"
 set message to "Hello!"
 set iterations to 5
 
